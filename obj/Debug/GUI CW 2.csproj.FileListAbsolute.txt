@@ -1,0 +1,68 @@
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\GUI CW 2.exe.config
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\GUI CW 2.exe
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\GUI CW 2.pdb
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\obj\Debug\GUI CW 2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Dasboard.resources
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Login.resources
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\obj\Debug\GUI CW 2.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\obj\Debug\GUI CW 2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\obj\Debug\GUI CW 2.exe
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\obj\Debug\GUI CW 2.pdb
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Billing.resources
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Catergories.resources
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Customers.resources
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\stdole.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\obj\Debug\GUI CW 2.csproj.Up2Date
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ADMIN\source\repos\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Print.resources
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\GUI CW 2.exe.config
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\GUI CW 2.exe
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\GUI CW 2.pdb
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\bin\Debug\stdole.dll
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI CW 2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Billing.resources
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Catergories.resources
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Customers.resources
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Dasboard.resources
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Print.resources
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Login.resources
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI CW 2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI CW 2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI CW 2.csproj.Up2Date
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI CW 2.exe
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI CW 2.pdb
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.Stockprint.resources
+C:\Users\ADMIN\Desktop\GUI CW 2\GUI CW 2\obj\Debug\GUI_CW_2.RegisterForm.resources
